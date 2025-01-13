@@ -3,7 +3,7 @@
 
 
 ## General info
-This is Demo SpringBoot Restful API for cinema
+RESTful API developed using Spring Boot and Spring JPA. Using H2 in-memory database.
 
 ## Run the app
 ```
